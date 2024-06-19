@@ -1,4 +1,4 @@
-# AppleSalesForecasting
+# Apple Sales Forecasting 
 Time series forecasting project of Apply Sales 2023-2025 
 
 **Description**
