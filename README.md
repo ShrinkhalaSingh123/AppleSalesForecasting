@@ -8,9 +8,9 @@ Time series forecasting project of Apply Sales 2023-2025
 4. The forecasting model used in this project is Prophet, a robust time series forecasting tool developed by Facebook.
    
 **Findings/Predictions**
-1. The model predicted a steady increase in Apple Inc.'s stock price over the next year.
-2. Seasonal trends and holiday effects were identified as significant factors influencing the stock prices.
-3. The forecast components analysis showed weekly, yearly seasonality, and trend changes in stock prices.
+1. The model predicted a steady increase in Apple Inc.'s stock price over the next year (2025).
+2. Seasonal trends and holiday effects were identified as significant factors influencing stock prices.
+3. The forecast components analysis showed weekly, and yearly seasonality, and trend changes in stock prices.
 4. Anomalies and potential future dips were identified, suggesting caution in certain periods.
    
 **Libraries used**
