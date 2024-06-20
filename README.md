@@ -1,5 +1,5 @@
 # Apple Sales Forecasting Project
-Time series forecasting project of Applye Sales 2023-2025 
+Time series forecasting project of Apple Sales 2023-2025 
 
 **Description**
 1. This project aims to forecast the future stock prices of Apple Inc. using historical stock price data.
